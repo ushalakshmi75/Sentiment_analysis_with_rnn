@@ -1,3 +1,4 @@
+[View Capstone Project Presentation](https://github.com/ushalakshmi75/Sentiment_analysis_with_rnn/raw/main/Sentiment_analysis_project_presentation.pdf)
 # Sentiment Analysis with RNN
 This project demonstrates how to perform Sentiment Analysis using a Recurrent Neural Network (RNN) model built with Python. The model is trained on labeled text data to predict whether a given text expresses a positive or negative sentiment.
 
